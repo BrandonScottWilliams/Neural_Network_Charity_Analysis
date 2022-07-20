@@ -7,7 +7,7 @@ The purpose of the analysis is to  predict where Alphabet soup should be making 
 * The columns EIN and NAME are not features of our model.
 * There were 110 neurons selected for the neural network model
 * There were 2 hidden layers selected for the neural network model
-* There were 2 activation functions selected forthe neural network model
+* There were 2 activation functions selected for the neural network model
 * We were unable too reach the target performance of 75%
 * To increase the performance of the model we used bucketting, added more neurons to a hidden layer and tried a different activation function.
 ## Summary
